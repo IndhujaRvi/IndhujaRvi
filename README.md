@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is IndhujaRavi
+####  Upcoming data analyst.
+![ Upcoming data analyst.](https://www.pngkey.com/png/full/16-160819_gold-banner-clipart-png-image-ribbon-banner-gold.png)
 
-<!--
-**IndhujaRvi/IndhujaRvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested to become a data analyst  and I good at content writing and designing. Completed HTML,CSS ,Javascript cources.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS /Javascript/Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
